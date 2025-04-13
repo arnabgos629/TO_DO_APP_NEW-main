@@ -9,7 +9,7 @@ const Home = () => {
         </h1>
         <p>
         Stay focused, organized, and stress-free with the <br />
-          todo app. The World's #1 task manager app.
+         Todo App — the world’s leading task manager.
         </p>
         <button class="home-btn p-2">Make Todo List</button>
       </div>
